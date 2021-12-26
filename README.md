@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujonmia-06
+- 👋 Hi, I’m @sujon mia
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack Web Development
 - 💞️ I’m looking to collaborate on the community
