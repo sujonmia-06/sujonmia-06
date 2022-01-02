@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujon mia
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack Web Development
-- 💞️ I’m looking to collaborate on the community
+- 💞️ I’m looking to collaborate in the community
 - 📫 How to reach me sujonmia.0612@gmail.com
 
 <!---
